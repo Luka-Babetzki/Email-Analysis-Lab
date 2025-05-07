@@ -1,4 +1,4 @@
-# Email Analysis Lab
+# Email Analysis (Phishing) Lab
 
 _**Source:** https://blueteamlabs.online/home/challenge/network-analysis-malware-compromise-e882f32908_
 
