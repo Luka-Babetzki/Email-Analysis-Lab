@@ -41,17 +41,17 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 ---
 ## Lab Answers
 
-1). **What is the email service used by the malicious actor?** _Answer_
+1). **What is the email service used by the malicious actor?** `emkei.cz`
 
-2). **What is the Reply-To email address?** _Answer_
+2). **What is the Reply-To email address?** `negeja3921@pashter.com`
 
-3). **What is the filetype of the received attachment which helped to continue the investigation?** _Answer_
+3). **What is the filetype of the received attachment which helped to continue the investigation?** `.zip`
 
-4). **What is the name of the malicious actor?** _Answer_
+4). **What is the name of the malicious actor?** `Pestero Negeja`
 
-5). **What is the location of the attacker in this Universe?** _Answer_
+5). **What is the location of the attacker in this Universe?** `The Martian Colony, Beside Interplanetary Spaceport.`
 
-6). **What could be the probable C&C domain to control the attacker's autonomous bots?** _Answer_
+6). **What could be the probable C&C domain to control the attacker's autonomous bots?** `pashter.com`
 
 ---
 ## Lessons Learned
