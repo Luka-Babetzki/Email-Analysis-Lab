@@ -4,21 +4,23 @@ _**Source:** https://blueteamlabs.online/home/challenge/network-analysis-malware
 
 ## Objective
 
-<...>
+The objective of this lab is to investigate a suspicious email that may be part of a phishing campaign. By analysing the raw email structure, header data, attachments, and embedded content, I aimed to uncover indicators of compromise, spoofed file types, and potential payload delivery. This exercise simulates a real-world SOC investigation into a potentially malicious email sent to a user.
 
 ### Skills Learned
 
-- <...>
-- <...>
-- <...>
-- <...>
-- <...>
+- Email header analysis and identification of spoofed fields
+- Using base64 decoding to analyse email body and attachments
+- Identifying file types based on binary signatures
+- Extracting and inspecting hidden or embedded files
+- Investigating encoded content for additional IOCs
 
 ### Tools Used
 
-- 
-- 
-- 
+- Notepad++
+- CyberChef
+- HxD (Hex Editor)
+- Garry Kessler's File Signature Table
+- sqrx (to view Excel file content)
 
 ---
 ## Steps
@@ -54,8 +56,8 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 ---
 ## Lessons Learned
 
-- 
-- 
-- 
-- 
-- 
+- Header mismatches like `From` vs. `Reply-To` are common phishing indicators.
+- File extensions can be misleading; always check actual file signatures.
+- Base64 encoding is often used to obfuscate data.
+- CyberChef is a powerful tool for safe, in-browser decoding and inspection.
+- Clearing formatting in Office files can reveal hidden or obfuscated data.
