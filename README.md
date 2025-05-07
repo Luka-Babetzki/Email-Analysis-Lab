@@ -21,6 +21,7 @@ The objective of this lab is to investigate a suspicious email that may be part 
 - HxD (Hex Editor)
 - Garry Kessler's File Signature Table
 - sqrx (to view Excel file content)
+- Exif
 
 ---
 ## Steps
@@ -41,17 +42,17 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 ---
 ## Lab Answers
 
-1). **What is the email service used by the malicious actor?** `emkei.cz`
+1). **What is the email service used by the malicious actor?** _`emkei.cz`_
 
-2). **What is the Reply-To email address?** `negeja3921@pashter.com`
+2). **What is the Reply-To email address?** _`negeja3921@pashter.com`_
 
-3). **What is the filetype of the received attachment which helped to continue the investigation?** `.zip`
+3). **What is the filetype of the received attachment which helped to continue the investigation?** _`.zip`_
 
-4). **What is the name of the malicious actor?** `Pestero Negeja`
+4). **What is the name of the malicious actor?** _`Pestero Negeja`_
 
-5). **What is the location of the attacker in this Universe?** `The Martian Colony, Beside Interplanetary Spaceport.`
+5). **What is the location of the attacker in this Universe?** _`The Martian Colony, Beside Interplanetary Spaceport.`_
 
-6). **What could be the probable C&C domain to control the attacker's autonomous bots?** `pashter.com`
+6). **What could be the probable C&C domain to control the attacker's autonomous bots?** _`pashter.com`_
 
 ---
 ## Lessons Learned
