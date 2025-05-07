@@ -74,7 +74,7 @@ To inspect these files without executing them, I opened each one using HxD, a he
 
 I renamed the files accordingly to reflect their true formats.
 
-Next, I analyzed Money.xlsx using sqrx since my VM did not have Excel installed. The spreadsheet had two sheets, both of which initially appeared empty. To check for obfuscated content, I selected all cells and cleared formatting **(Ctrl+A > Right-click > Clear > Format)**. This revealed a base64-encoded string hidden in a cell on the second sheet. I decoded it in CyberChef to uncover its contents for further analysis.
+Next, I analysed `Money.xlsx` using sqrx since my VM did not have Excel installed. The spreadsheet had two sheets, both of which initially appeared empty. To check for obfuscated content, I selected all cells and cleared formatting **(Ctrl+A > Right-click > Clear > Format)**. This revealed a base64-encoded string hidden in a cell on the second sheet. I decoded it in CyberChef to uncover its contents for further analysis.
 
 ### 3. Observations
 
